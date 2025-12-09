@@ -1,0 +1,5 @@
+{
+  "name": "Shapr3D Equity Simulator",
+  "description": "Interactive equity calculator for visualizing stock option value and vesting schedules based on valuation scenarios.",
+  "requestFramePermissions": []
+}
